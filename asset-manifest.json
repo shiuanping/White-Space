@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/White-Space/static/css/main.719cd522.css",
+    "main.js": "/White-Space/static/js/main.1d391903.js",
+    "static/js/787.3c1aaccb.chunk.js": "/White-Space/static/js/787.3c1aaccb.chunk.js",
+    "static/media/banner.jpg": "/White-Space/static/media/banner.0065b8fb9771d4aa398c.jpg",
+    "index.html": "/White-Space/index.html",
+    "main.719cd522.css.map": "/White-Space/static/css/main.719cd522.css.map",
+    "main.1d391903.js.map": "/White-Space/static/js/main.1d391903.js.map",
+    "787.3c1aaccb.chunk.js.map": "/White-Space/static/js/787.3c1aaccb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719cd522.css",
+    "static/js/main.1d391903.js"
+  ]
+}
